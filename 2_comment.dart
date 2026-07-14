@@ -37,9 +37,9 @@ void main(List<String> args) {
   // mencentak Hello Ucup!
   print('Hello Ucup!');
 
-  print('object');
+  print(age());
 }
 
 int age() {
-  return 17;
+  return 17 * 2;
 }
