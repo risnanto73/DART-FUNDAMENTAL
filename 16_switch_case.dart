@@ -39,8 +39,10 @@ void main(List<String> args) {
   /**
    * buatkan sebuah program interaktif menggunakan kombinasi dari 
    * input, switch case dan if else
-   * Menu Cek Nilai
-   * Menu Cek Hari
+   * Pilih Menu
+   * 1. Menu Cek Nilai
+   * 2. Menu Cek Hari
+   * 0. Exit
    * 
    * A = 90 - 100
    * B = 80 - 89
