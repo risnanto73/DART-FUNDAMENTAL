@@ -1,7 +1,7 @@
 void main(List<String> args) {
 
   String? favoriteFood = null;
-  buyAMeal(favoriteFood); // compile error
+  buyAMeal(favoriteFood!); // compile error
 }
 
 /// pada function [buyAMeal] error karena parameternya tidak menggunakan null safety
